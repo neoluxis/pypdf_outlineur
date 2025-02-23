@@ -1,0 +1,4 @@
+tasks:
+    - outline: config/26张宇基础30讲（高数）.yaml
+      override: false
+      pdf: ../26张宇基础30讲（高数）.pdf
